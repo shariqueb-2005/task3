@@ -1,0 +1,41 @@
+body {
+    background-color: coral;
+}
+
+.head {
+    color: darkblue;
+}
+
+#bglime {
+    background-color:rgb(103, 203, 103);
+}
+
+label {
+    color: crimson;
+}
+
+p {
+    color: white;
+}
+
+#para {
+    color: green;
+}
+#para1 {
+    color: black;
+    font-size: larger;
+}
+
+ul li:first-child a {
+    background-color: yellow;
+}
+ul li:last-child a {
+    background-color: blue;
+}
+
+ol li:nth-child(2) {
+    color: blue;
+}
+ol li:nth-child(3){
+    color: red;
+}
